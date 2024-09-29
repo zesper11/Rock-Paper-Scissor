@@ -1,0 +1,23 @@
+button{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    border-radius: 50%;
+    border: none;
+    background-color: #52525e;
+    color: whitesmoke;
+    transition-duration: 0.3s;
+}
+
+body{
+    text-align: center;
+    background-color: #181A1B;
+}
+
+h1{
+    color: whitesmoke;
+}
+
+button:hover{
+    background-color: #2d2d33;
+}
